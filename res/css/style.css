@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+*{
+  font-family: 'VT323', monospace;
+}
+body {
+  background-image: url(../img/FNAF_bg.webp);
+  background-size: cover;
+  
+}
+#cookie {
+  max-width: 250px;
+  cursor: pointer;
+  transition: .3s ease;
+}
+#cookie:hover {
+  transform:scale(1.3);
+}
+.bear{
+  margin-top: 5rem;
+  width:20rem ;
+ color: white;
+ text-align: center;
+ font-size: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  padding-top: 0%;
+  margin-top: 0;
+}
+
