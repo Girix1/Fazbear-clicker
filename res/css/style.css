@@ -6,6 +6,7 @@
 body {
   background-image: url(../img/FNAF_bg.webp);
   background-size: cover;
+  background-repeat: no-repeat;
   
 }
 #cookie {
